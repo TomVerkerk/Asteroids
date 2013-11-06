@@ -1,7 +1,0 @@
-# .gitignore for Unity 3D
-Temp
-Library
-*.csproj
-*.sln
-*.userprefs
-*.pidb
